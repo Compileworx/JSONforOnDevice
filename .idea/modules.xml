@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSONforOnDevice.iml" filepath="$PROJECT_DIR$/JSONforOnDevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonondevice/jsonondevice.iml" filepath="$PROJECT_DIR$/jsonondevice/jsonondevice.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mycompany.myapp.MainActivity" >
+    
+    <item android:id="@+id/testJson"
+        android:title="Test Json"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/testEscapeChars"
+        android:title="Test Escape Chars"
+        android:orderInCategory="200"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/storeJson"
+        android:title="Store Json"
+        android:orderInCategory="300"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/retrieveJson"
+        android:title="Retrieve Json"
+        android:orderInCategory="400"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/saveJsonStorage"
+        android:title="Save To Storage"
+        android:orderInCategory="500"
+        android:showAsAction="never" />
+</menu>
